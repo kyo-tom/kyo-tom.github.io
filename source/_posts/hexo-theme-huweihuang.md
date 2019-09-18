@@ -7,7 +7,7 @@ subtitle: "This is hexo theme Demo."
 header-img: "/img/article_header/article_header.png"
 tags:
 - Dubbo
-catagories:
+categories:
 - Dubbo
 updateDate: 2018-12-23 22:26:24
 top: 1
