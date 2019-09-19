@@ -1,0 +1,2 @@
+blog目录下的node_modules/hexo-toc/lib/filter.js文件由于存在一些bug会导致文章内容的导航侧边栏锚点失效，无法跳转，需更换为本目录下的filter.js文件。
+具体的修改为：解开28行的注释，注释掉29-31行的注释。
