@@ -68,11 +68,11 @@ sidebar-about-description: "Stay hungry,Stay foolish"
 sidebar-avatar: /img/avatar/ironman.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 widgets:
 - featured-tags
-- short-about
+#- short-about
 - recent-posts
-- friends-blog
+#- friends-blog
 - archive
-#- category
+- category
 
 # widget behavior
 ## Archive
@@ -136,12 +136,10 @@ highlight:
 # Category & Tag
 default_category: article
 category_map:
-  Docker: docker
-  Kubernetes: kubernetes
-  Golang: golang
-  Nginx: nginx
-  Etcd: etcd
-  Database: database
+  Dubbo: dubbo
+  Hexo: hexo
+  SpringCloud: spring cloud
+  Nacos: nacos
 
 tag_map:
 home_posts_tag: true # show posts tags
